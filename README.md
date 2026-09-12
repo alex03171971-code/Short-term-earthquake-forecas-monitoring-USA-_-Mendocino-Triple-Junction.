@@ -13,3 +13,6 @@
 *04-D "WP04-D" added
 9 S 294522 4418386
 39.89066°N -131.40325°E
+
+![Карта зоны Mendocino Triple Junction](Mendocino%20Triple%20Junction.png)
+
